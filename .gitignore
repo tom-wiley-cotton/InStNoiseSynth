@@ -431,6 +431,9 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+# vim sessions
+session.vim
+
 # VS Code files for those working on multiple tools
 .vscode/*
 !.vscode/settings.json
